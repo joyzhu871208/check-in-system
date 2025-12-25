@@ -1,0 +1,7 @@
+{
+  "name": "Dreamy Particle Check-in System",
+  "description": "A sophisticated check-in system featuring a 3D particle sphere visualization for attendees, supporting Excel/TXT imports and real-time QR code check-ins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
